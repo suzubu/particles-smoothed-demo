@@ -6,8 +6,7 @@
 
 ## 🖼 Preview
 
-![App Preview](media/particles-smoothed-demo.gif)
-
+![App Preview](media/particles-smoothed-preview.gif)
 
 ---
 
