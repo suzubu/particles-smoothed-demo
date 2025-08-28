@@ -7,7 +7,7 @@ let scene, camera, renderer, material;
 let mouse = new THREE.Vector2();
 let smoothedMouse = new THREE.Vector2();
 
-const mask = "/image7_small.png";
+const mask = "/image9_small.png";
 
 init();
 animate();
